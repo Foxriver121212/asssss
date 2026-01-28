@@ -1,0 +1,16 @@
+from .start import router as start
+from .menu import router as menu
+from .info import router as info
+from .quiz import router as quiz
+from .admin import router as admin
+from .lang import router as lang
+from .faq import router as faq
+from .events import router as events
+from .profile import router as profile
+from .plants import router as plants
+from .animals import router as animals
+from .achievements import router as achievements
+from .leaderboard import router as leaderboard
+from .gallery_nav import router as gallery_nav
+from .search import router as search
+from .reviews import router as reviews

@@ -1,0 +1,73 @@
+{
+  "1607195087": {
+    "username": "daryn_beksultan",
+    "first_name": "Daryn",
+    "lang": "ru",
+    "quiz_active": true,
+    "quiz_progress": 1,
+    "quiz_score": 0,
+    "correct_answers": 5,
+    "quiz": null
+  },
+  "5718900356": {
+    "id": 5718900356,
+    "username": "fxxxox",
+    "name": "Foxy",
+    "lang": "kz",
+    "quiz": {
+      "active": true,
+      "progress": 0,
+      "score": 0
+    }
+  },
+  "5652474566": {
+    "id": 5652474566,
+    "username": "",
+    "name": "..",
+    "lang": "ru",
+    "quiz": null
+  },
+  "340605737": {
+    "id": 340605737,
+    "username": "RomanGulnur",
+    "name": "Gulnur",
+    "lang": "ru",
+    "quiz": null
+  },
+  "1219100220": {
+    "id": 1219100220,
+    "username": "boraliev",
+    "name": "𝖬𝖺𝗄𝗌",
+    "lang": "kz",
+    "quiz": null
+  },
+  "621496343": {
+    "id": 621496343,
+    "username": "EAlmanov",
+    "name": "Yerdaulet",
+    "lang": "kz",
+    "quiz": null
+  },
+  "8005926680": {
+    "id": 8005926680,
+    "username": "",
+    "name": "Нағима",
+    "lang": "kz",
+    "quiz": {
+      "active": true,
+      "progress": 0,
+      "score": 0
+    }
+  },
+  "8267363503": {
+    "id": 8267363503,
+    "username": "",
+    "name": "Bekarys",
+    "lang": "ru",
+    "quiz": {
+      "active": true,
+      "progress": 0,
+      "score": 0
+    }
+  }
+}
